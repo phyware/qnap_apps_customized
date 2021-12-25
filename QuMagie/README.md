@@ -4,9 +4,9 @@ QNAP customzer support might suggest you to switch to view in "the original size
 
 So I modified the smali code and added 3 lines to fetch the large thumbnail if the original request is to get the middle one, much like below code:
 ```
-        if (size == "1")
+        if (size == "middle_thumb")
         {
-            size = "0";
+            size = "large_thumb";
         }
 ```
 
