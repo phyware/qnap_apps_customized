@@ -1,4 +1,4 @@
-You might also find that for a same photo, when viewing in full screen mode, QuMagie App in phone is showing a much poorer quality when compared with PC QuMaige webpage or QPhoto App. They all use the thubnail to display, but in PC QuMagie and QPhoto App it's using the large size thumbnail while in QuMagie app it's using middle size. It's controlled by a size parameter when app sends the http(s) request to QNAP NAS.
+You might also find that for a same photo, when viewing in full screen mode, QuMagie App in phone is showing a much poorer quality compared with PC QuMaige webpage or QPhoto App. They all use the thubnail to display, but in PC QuMagie and QPhoto App it's using the large size thumbnail while in QuMagie app it's using middle size. It's controlled by a size parameter when app sends the http(s) request to QNAP NAS.
 
 QNAP customzer support might suggest you to switch to view in "the original size" to solve this, but it's just a workaround. It imposes much pressure to your NAS, phone and the network, especially if the original size is very large. Also app is buggy and very slow to show the original one.
 
