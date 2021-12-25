@@ -10,6 +10,6 @@ So I modified the smali code and added 3 lines to fetch the large thumbnail if t
         }
 ```
 
-Feed free to download the updated app and use it. 
+Feed free to download the updated app and use it, at the release page: https://github.com/phyware/qnap_apps_customized/releases/tag/QuMagie
 
 It would be good if you can complain this issue to QNAP too, so they understand it's a common issue and hope they will take action to fix it in the official build quickly.
